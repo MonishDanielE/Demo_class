@@ -1,1 +1,3 @@
-Welcome to the class
+Welcome to the class.
+
+This line id edited from GitHub
