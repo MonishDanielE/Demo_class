@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Welcome to the class	
+=======
+Welcome to the class.
+
+This line id edited from GitHub
+pull and push 
+>>>>>>> 77de6258c36d50339e6ef65e2057dc7495c1854b
